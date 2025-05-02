@@ -6,6 +6,5 @@ see the proect in action:
 ![Netflix clone](https://github.com/user-attachments/assets/d674f887-ed5a-490e-8305-307ae5c59f44)
 
 
-Netflix Clone Interface: ./screenshots/Netflix_Clone.jpg
+![Netflix Scary](https://github.com/DeepanshuTolani/netflix-clone/blob/main/netflix_scary.jpg?raw=true)
 
-![Netflix Scary](./netflix-scary.jpg)
