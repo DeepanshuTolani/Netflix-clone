@@ -1,4 +1,4 @@
-# Netflix-clone
+# Netflix-clone(coming soon get ready for the climax to be shown )
 Screenshots
 
 see the proect in action:
