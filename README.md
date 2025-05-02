@@ -9,3 +9,4 @@ see the proect in action:
 Netflix Clone Interface: ./screenshots/Netflix_Clone.jpg
 
 ![Additional Screenshot](./Downloads/netflix_scary.jpg)
+![Additional Screenshot](./screenshots/netflix scary.jpg)
