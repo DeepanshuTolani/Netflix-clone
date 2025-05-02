@@ -4,7 +4,10 @@
 
 See the project in action:
 
-![Netflix Clone Interface](https://github.com/DeepanshuTolani/netflix-clone/blob/main/netflix-scary.jpg?raw=true)
+## 📸 Screenshots
+
+![Netflix Clone](netflix-scary.jpg)
+
 
 
 
