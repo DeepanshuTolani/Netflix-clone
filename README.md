@@ -4,10 +4,6 @@
 
 See the project in action:
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-
 ![Netflix Scary](netflix%20scary.jpg)
 
 
