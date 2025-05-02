@@ -6,7 +6,10 @@ See the project in action:
 
 ## 📸 Screenshots
 
-![Netflix Clone](netflix-scary.jpg)
+## 📸 Screenshots
+
+![Netflix Scary](netflix%20scary.jpg)
+
 
 
 
