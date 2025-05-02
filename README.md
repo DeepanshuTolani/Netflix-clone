@@ -1,5 +1,5 @@
 # Deep's Netflix Clone is coming… and the climax will haunt your screen forever
-Screenshots
+## 📸 Screenshots
 
 see the proect in action:
 
@@ -7,8 +7,8 @@ see the proect in action:
 
 
 ![Netflix Scary](https://github.com/DeepanshuTolani/netflix-clone/blob/main/netflix_scary.jpg?raw=true)
-## 📸 Screenshots
 
-![Netflix Clone](netflix_scary.jpg)
+
+![Netflix Clone](netflix scary.jpg)
 
 
