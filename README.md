@@ -9,7 +9,7 @@ see the proect in action:
 ![Netflix Scary](https://github.com/DeepanshuTolani/netflix-clone/blob/main/netflix_scary.jpg?raw=true)
 
 
-![Netflix Clone](netflix scary.jpg)
+![Netflix Clone](netflix-scary.jpg)
 ![Netflix Clone](netflix%20scary.jpg)
 
 
