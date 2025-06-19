@@ -1,6 +1,6 @@
-const apikey = "e950e51d5d49e85f7c2f17f01eb23ba3";
-const apiEndpoint = "https://api.themoviedb.org/3";
-const imgPath = "https://image.tmdb.org/t/p/original";
+const apikey = 
+const apiEndpoint = 
+const imgPath = 
 
 const apiPaths = {
     fetchAllCategories: `${apiEndpoint}/genre/movie/list?api_key=${apikey}`,
